@@ -1,7 +1,7 @@
 
 # Aditya Shrivastava's GitHub Readme
 
-###Hello there! 👋 I'm Aditya Shrivastava, a passionate and versatile individual pursuing a Bachelor's degree at UPES. I wear many hats, including being a developer, innovator, public speaker, graphic designer, content creator, and web developer. Here's a little bit about me and my journey so far:
+###Hello there! 👋 I'm Aditya Shrivastava, a passionate and versatile individual pursuing a Bachelor's degree at UPES. I wear many hats, including being a developer, innovator, public speaker, graphic designer, and content creator. Here's a little bit about me and my journey so far:
 
 ## About Me
 

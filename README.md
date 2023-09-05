@@ -40,9 +40,9 @@ My educational journey started at Campion School, where I laid the foundation fo
 
 I'm always excited to connect with fellow developers, innovators, and enthusiasts. Feel free to reach out to me on social media or through email:
 
-- GitHub: [github.com/aditya-shrivastava](https://github.com/adishri2005)
-- LinkedIn: [linkedin.com/in/aditya-shrivastava](https://linkedin.com/in/adityashrivastava2005)
-- Twitter: [twitter.com/yourtwitterhandle](https://twitter.com/adishri2005)
+- GitHub: [github.com/adishri2005](https://github.com/adishri2005)
+- LinkedIn: [linkedin.com/in/adityashrivastava2005](https://linkedin.com/in/adityashrivastava2005)
+- Twitter: [twitter.com/adishri2005](https://twitter.com/adishri2005)
 - Email: adityashrivastava2005@gmail.com
 
 Let's collaborate, learn, and innovate together! 🚀
